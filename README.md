@@ -1,2 +1,2 @@
 # Repositorio-inicial
- Primeiro repositorio curso gitHub
+ Primeiro repositorio curso GitHub
